@@ -1,7 +1,7 @@
 # CRMAnalytics
 ## CRM Analitiğine Giriş
 
-### CRM(Müşteri İlişkileri Yönetimi)
+## CRM(Müşteri İlişkileri Yönetimi)
 * Müşterilerle olan ilişkileri takip etmek ve tanımlamak ile ilgili yapılan göstergeler CRM'e örnektir.
 Kullanıcının siteye üye olması, 1 sipariş yapması, ikinci siparişini yapması veya vazgeçmesi...
 * Yeni müşteri bulmak, mevcut müşterileri elde tutmaktan daha zordur. Bu nedenle öncelik her zaman mevcut müşterileri elde tutmak için yapılmalıdır. (Customer churn-terk çalışmaları)
@@ -18,5 +18,14 @@ Kullanıcının siteye üye olması, 1 sipariş yapması, ikinci siparişini yap
 
 ### Kohort Analizi (Cohort)
 * Ortak özelliklere sahip bir grup insanın davranışının analizi
-* 
+* Belirli bir tarhiten sonra bir uygulamayı indiren indirip kullanmayan kişilerin analizi vs...
+
+## RFM (Recency(Son alışveriş tarihi), Frequency(Toplam alışveriş sayııs), Monetary(Bıraktığı toplam parasal değer))
+* ![image](https://github.com/user-attachments/assets/98faf9d9-d2b8-4936-8eb3-0f0b2f9ec60c)
+* Müşteirlerin satın alma alışkanlıkları üzerinden gruplara ayrılması ve bu gruplar özelinde stratejiler geliştirebilmesini sağlar.
+* Recency küçük diğerleri büyük olursa daha iyi olur.
+* Burada değerlerin hepsini 1-5 arasında gruplayıp puanlandırmak daha mantıklıdır.
+* Ardından 121-555 gibi sırası ile bir RFM Skoru alırlar. Buna göre RFM skorunun değerine göre mantıksal bir gruplama yapılır. Burada RFM skorları üzerinden yeni segmentler oluşturulur.
+* Müşterilerin bizimle kurduğu ilişkilerde Recency ve Frequency'e göre bir sınıflandırma yapılır. Monitory'e çok önem veirlmez. 
+* ![image](https://github.com/user-attachments/assets/d8440ee5-8017-4bbe-8748-8d215cc118ad)
 
