@@ -1,6 +1,8 @@
 # CRMAnalytics
 ## CRM Analitiğine Giriş
 
+* Bu Readme dosyası içerisindeki ekran görüntüleri ve kodların bazıları Miuul şirketine aittir. 
+
 ## CRM(Müşteri İlişkileri Yönetimi)
 * Müşterilerle olan ilişkileri takip etmek ve tanımlamak ile ilgili yapılan göstergeler CRM'e örnektir.
 Kullanıcının siteye üye olması, 1 sipariş yapması, ikinci siparişini yapması veya vazgeçmesi...
@@ -29,3 +31,10 @@ Kullanıcının siteye üye olması, 1 sipariş yapması, ikinci siparişini yap
 * Müşterilerin bizimle kurduğu ilişkilerde Recency ve Frequency'e göre bir sınıflandırma yapılır. Monitory'e çok önem veirlmez. 
 * ![image](https://github.com/user-attachments/assets/d8440ee5-8017-4bbe-8748-8d215cc118ad)
 
+--------------------------------------------------------------------------------------
+
+## Müşteri Yaşam Boyu Değeri (Customer Lifetime Value)
+
+* Bir müşterinin şirkete kazandıracağı parasal değerdir.
+* ![image](https://github.com/user-attachments/assets/5eaba4b9-4297-4dd4-bd9a-ab3d9ea2d6bc)
+* ![image](https://github.com/user-attachments/assets/acbd2336-01b7-4cd4-9cf8-d9431fb24828)
